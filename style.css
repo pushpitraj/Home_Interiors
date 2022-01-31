@@ -126,7 +126,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url("bg_image.png") no-repeat;
+    background: url(bg_image.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
